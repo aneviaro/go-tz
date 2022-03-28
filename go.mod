@@ -1,8 +1,8 @@
-module gopkg.in/ugjka/go-tz.v2
+module github.com/xrustalik/go-tz.v2
+
+go 1.16
 
 require (
 	github.com/machinebox/progress v0.2.0
-	github.com/matryer/is v1.2.0 // indirect
+	github.com/matryer/is v1.4.0 // indirect
 )
-
-go 1.13
